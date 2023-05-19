@@ -1,0 +1,16 @@
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.csproj.AssemblyReference.cache
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.AssemblyInfoInputs.cache
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.AssemblyInfo.cs
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.csproj.CoreCompileInputs.cache
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\MusicLibrary.exe
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\MusicLibrary.deps.json
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\MusicLibrary.runtimeconfig.json
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\MusicLibrary.runtimeconfig.dev.json
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\MusicLibrary.dll
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\ref\MusicLibrary.dll
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\bin\Debug\net5.0\MusicLibrary.pdb
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.dll
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\ref\MusicLibrary.dll
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.pdb
+G:\Univer\Anul 3\Semestrul II\TMPS\Lab4\MusicLibrary\obj\Debug\net5.0\MusicLibrary.genruntimeconfig.cache
